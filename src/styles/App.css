@@ -1,0 +1,22 @@
+h1,
+h4 {
+  text-align: center;
+  margin: 4rem;
+}
+
+.container {
+  border: solid 0.2rem black;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 4rem;
+  margin: 2rem;
+  text-align: center;
+}
+
+.button {
+  padding: 1rem;
+}
+
+form {
+  text-align: center;
+}
